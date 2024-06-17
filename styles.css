@@ -1,0 +1,62 @@
+/* styles.css */
+
+/* Estilos gerais para a interface Void Scripts */
+.void-scripts-interface {
+    position: fixed;
+    top: 10%;
+    left: 10%;
+    background-color: rgba(167, 78, 240, 0.384);
+    padding: 2%;
+    border: 1px solid #6600cc;
+    z-index: 9999;
+    width: 80%;
+    max-width: 300px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+    border-radius: 2vw;
+    font-family: Arial, sans-serif;
+    
+}
+
+/* Estilos para o título da interface */
+.void-scripts-title {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.void-scripts-title h1 {
+    font-size: 18px;
+    color: #6600cc;
+    margin: 0;
+}
+
+/* Estilos para as seções de scripts */
+.script-1,
+.script-2 {
+    margin-bottom: 20px;
+}
+
+.script-1 h2,
+.script-2 h2 {
+    font-size: 16px;
+    color: #6600cc;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Estilos para os botões */
+.void-button {
+    display: block;
+    width: calc(50% - 5px);
+    margin: 5px auto;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #6600cc;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.void-button:hover {
+    background-color: #4d0099;
+}
