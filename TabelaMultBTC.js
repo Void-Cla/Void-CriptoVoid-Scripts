@@ -2,7 +2,7 @@
 // @name         Tabela de Rolagem do Multiply BTC
 // @namespace    
 // @version      0.1
-// @description  Script for freebitco.in that tracks and presents statistics on rolls in the Multiply BTC game, displaying them in a convenient table format.
+// @description  
 // @author       Sr.fox
 // @match        https://freebitco.in/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=freebitco.in
